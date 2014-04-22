@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'ffi-compiler'
-  s.version = '0.1.44444'
+  s.version = '0.1.4'
   s.author = 'Wayne Meissner'
   s.email = 'wmeissner@gmail.com'
   s.homepage = 'http://wiki.github.com/ffi/ffi'
